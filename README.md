@@ -25,7 +25,6 @@
 | `EDA_Checkpoint.ipynb` | 数据探索与清洗（缺失值填充、TF-IDF、可视化） |
 | `myNotebook.ipynb` | LightGBM 消融实验与 SHAP 可解释性分析 |
 | `notebook.ipynb` | 关联规则基线流水线 |
-| `generate_pptx.py` | PPT 生成脚本（学术 Beamer 风格，25 页） |
 | `H&M_个性化推荐系统_数据分析报告.pptx` | 演示文稿 |
 | `H&M个性化推荐实验报告.md` | 实验报告（期中版本） |
 | `漂移现象分析.md` | 数据漂移与概念漂移分析 |
