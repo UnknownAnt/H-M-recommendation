@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (too large for git)
+*.csv
+*.parquet
+*.h5
+*.hdf5
+
+# Kaggle
+kaggle.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Submission files
+submission*.csv
+
+# Unrelated files
+proposal.txt
+reference.txt
+su_model.txt
+
+# Empty placeholders
+python
+ablation_shap_demo.ipynb
+test.ipynb
