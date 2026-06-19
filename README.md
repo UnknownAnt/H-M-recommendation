@@ -1,6 +1,6 @@
 # H&M Personalized Fashion Recommendations
 
-基于 Kaggle H&M 竞赛的个性化时尚推荐系统，通过"时间衰减 + 位置加权复购"规则模型实现 MAP@12 = 0.02229（+19% vs Baseline）。
+基于 Kaggle H&M 竞赛的个性化时尚推荐系统，通过"时间衰减 + 位置加权复购"规则模型实现 MAP@12 = 0.02312（+19% vs Baseline）。
 
 ## 核心发现
 
